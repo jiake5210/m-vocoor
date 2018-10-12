@@ -1,1 +1,0 @@
-npm install vue-style-loader css-loader --save --registry=https://registry.npm.taobao.org

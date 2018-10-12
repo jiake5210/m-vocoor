@@ -1,0 +1,1 @@
+npm install babel-plugin-transform-remove-strict-mode --save-dev --registry=https://registry.npm.taobao.org
