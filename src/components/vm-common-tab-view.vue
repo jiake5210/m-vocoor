@@ -23,7 +23,7 @@
 </template>
 
 <script>
-import mui from '@/assets/mui/js/mui.min.js'
+// import mui from '@/assets/mui/js/mui.min.js'
 
 export default {
     
